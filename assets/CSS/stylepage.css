@@ -968,7 +968,8 @@ ul
     header
     {
         background-size: 28%;   
-        margin-left: 0;    
+        margin-left: 0;   
+        background-position: 3% 14%; 
     }
     
     nav
